@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginApi</string>
+    <string name="msg_ingresar">vuelve intentar</string>
+</resources>
